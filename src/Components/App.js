@@ -1,7 +1,7 @@
 import React, {Component} from 'react';
 import Statistics from './Statistics/Statistics';
-import Controls from './Statistics/Controls';
-import Section from './Statistics/Section';
+import Controls from './Controls/Controls';
+import Section from './Section/Section';
 import Styles from './App.module.css';
 
 export default class App extends Component {
